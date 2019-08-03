@@ -1,4 +1,4 @@
-package com.stackroute.javakeywords;
+package com.stackroute.javakeywords.classandobject;
 
 public class MainClass {
     public static void main(String[] args){

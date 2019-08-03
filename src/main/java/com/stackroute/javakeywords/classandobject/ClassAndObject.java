@@ -1,7 +1,8 @@
-//More on Classes and Objects - Anatomy of a class, Constructors, Creating and using objects, this keyword, Controlling access to a member
+//More on Classes and Objects - Anatomy of a class, Constructors, Creating and using objects, this keyword,
+// Controlling access to a member
 //OOPs Concepts - Object, Class,Package
 
-package com.stackroute.javakeywords;
+package com.stackroute.javakeywords.classandobject;
 
 public class ClassAndObject {
 
